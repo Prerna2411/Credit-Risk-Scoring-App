@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environment
+.env
+*.env
+venv/
+.envrc
+env/
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+
+
+
+*.joblib
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
