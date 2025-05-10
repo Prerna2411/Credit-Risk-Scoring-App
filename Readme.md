@@ -54,12 +54,20 @@ These features were selected based on model importance analysis.
 
 ## 📦 Project Structure
 credit-risk-scoring-app/
+
+
 │
+
 ├── app.py # Streamlit application code
+
 ├── model2.pkl # Trained CatBoost model
+
 ├── features3.pkl # List of selected features
+
 ├── requirements.txt # Python dependencies
+
 ├── .gitignore # Ignored files
+
 └── README.md # Project overview and instructions
 
 
