@@ -81,32 +81,34 @@ credit-risk-scoring-app/
    git clone https://github.com/Prerna2411/Credit-Risk-Scoring-App.git
    cd credit-risk-scoring-app
 
-2.Create and activate a virtual environment:
-  python -m venv env
+ 2.Create and activate a virtual environment:
+    python -m venv env
   source env/bin/activate     # On Windows: env\Scripts\activate
 
-3.Install dependencies:
+  3.Install dependencies:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
-4.Start the Streamlit app:
- streamlit run app.py
+  4.Start the Streamlit app:
+     streamlit run app.py
 
 
 🛠️ Tech Stack
-Python 3.8+
 
-Streamlit
+    Python 3.8+
 
-CatBoost,XGBoost,Logistic Regression,SVM,LightBGM,RandomForest
+    Streamlit
 
-scikit-learn
+    CatBoost,XGBoost,Logistic Regression,SVM,LightBGM,RandomForest
 
-pandas, numpy
+    scikit-learn
 
-joblib
+    pandas, numpy
 
-matplotlib
+    joblib
+
+    matplotlib
+
 
 Dataset Used-Kaggle-https://www.kaggle.com/competitions/home-credit-default-risk
