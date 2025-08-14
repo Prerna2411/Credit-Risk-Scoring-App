@@ -1,6 +1,6 @@
 # Credit Risk Scoring App 🏦
 
-This Streamlit web application predicts the likelihood of loan approval based on applicant financial and credit-related features. The underlying model is a **CatBoostClassifier**, trained on processed data with techniques like **EDA**, **encoding**, **SMOTE**, and evaluated using **AUC-ROC**.
+This Streamlit web application predicts the likelihood of loan approval based on applicant financial and credit-related features.The underlying model is a **CatBoostClassifier**, trained on processed data with techniques like **EDA**, **encoding**, **SMOTE**, and evaluated using **AUC-ROC**.
 
 ---
 
@@ -112,3 +112,4 @@ credit-risk-scoring-app/
 
 
 Dataset Used-Kaggle-https://www.kaggle.com/competitions/home-credit-default-risk
+
